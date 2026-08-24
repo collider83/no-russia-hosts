@@ -404,6 +404,11 @@ sketchup.com
 # store.solidstatelogic.com
 solidstatelogic.com
 
+# guide.sonatype.com
+# At this time we are unable to offer a license in your area.
+# www.sonatype.com/products/sonatype-nexus-pro/trial
+sonatype.com
+
 # community.sophos.com
 # intelix.sophos.com
 sophos.com
