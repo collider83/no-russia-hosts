@@ -286,10 +286,16 @@ miromind.ai
 # cms-images.mmst.eu
 mmst.eu
 
+# img.modivo.cloud
+modivo.cloud
+
 # account.mongodb.com
 # cloud.mongodb.com
 mongodb.com
 mongodb.net
+
+# app.n8n.cloud/register
+n8n.cloud
 
 # static.naukimg.com
 naukimg.com
@@ -419,6 +425,9 @@ summerana.com
 # store.supercell.com
 supercell.com
 
+# static.superpharm.eu
+superpharm.eu
+
 # pkgs.tailscale.com
 tailscale.com
 
@@ -492,6 +501,9 @@ windriver.com
 # windsurf.com/restricted
 windsurf.com
 
+# users.wix.com
+wix.com
+
 # trace.wrs.com
 wrs.com
 
@@ -524,10 +536,12 @@ zapier.com
 3parug.com
 6pm.com
 8chan.moe
+aave.com
 acurapartswarehouse.com
 adam-audio.com
 adafruit.com
 adtran.com
+affinity.studio
 agar.io
 airbrake.io
 all3dp.com
@@ -581,6 +595,7 @@ cacti.net
 cadence.com
 cambiumnetworks.com
 canva.com
+canva.dev
 canva-apps.com
 capacitorjs.com
 capcut.com
@@ -604,6 +619,7 @@ completeaccess.audio
 copernicus.eu
 coursera.com
 corecode.io
+coreweave.com
 cpu-monkey.com
 crowdstrike.com
 crunchbase.com
@@ -630,6 +646,7 @@ dickssportinggoods.com
 diffblue.com
 digikey.com
 digikey.sg
+digikeyassets.com
 disctech.com
 dnb.com
 docker.io
@@ -702,6 +719,7 @@ eneba.com
 engagor.com
 enscape3d.com
 entrust.com
+evike.com
 espares.ie
 espares.it
 etsy.com
@@ -956,11 +974,13 @@ macpaw.com
 macvendors.com
 malwarebytes.org
 manus.im
+manybooks.net
 mattermost.com
 maximintegrated.com
 mbed.com
 mediaexpert.pl
 mediamarkt.pl
+megazakaz.com
 meest-shop.com
 megogo.net
 meta.ai
@@ -973,6 +993,7 @@ mikrocontroller.net
 militarnyi.com
 mint.com
 mistral.ai
+modivo.pl
 moneypuck.com
 monica.im
 monotype.com
@@ -1038,6 +1059,7 @@ plugin-alliance.com
 pluralsight.com
 phishtank.com
 pny.com
+powertoolsuk.co.uk
 promods.net
 pump.fun
 pxl.to
@@ -1061,6 +1083,7 @@ replicate.com
 resp.app
 reverb.com
 ribbonsoft.com
+romsgames.net
 salesforce.com
 samsclub.com
 sans.edu
@@ -1108,6 +1131,7 @@ stockx.com
 strava.com
 studychat.app
 stuff.co.nz
+superpharm.pl
 swagger.io
 syncfusion.com
 synoforum.com
@@ -1133,6 +1157,7 @@ together.ai
 tommy.com
 tria.ge
 trionworlds.com
+trueachievements.com
 truthsocial.com
 tsheets.com
 tsmc.com
