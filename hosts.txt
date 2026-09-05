@@ -167,15 +167,6 @@ gitlab.com
 # gllto.glpals.com
 glpals.com
 
-# bard.google.com
-# gemini.google.com
-# lookerstudio.google.com
-google.com
-googleapis.com
-
-# discuss.ai.google.dev
-google.dev
-
 # mviskarada.gov.ua
 gov.ua
 
