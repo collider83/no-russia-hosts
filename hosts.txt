@@ -7,6 +7,9 @@ activestate.com
 # Some Photoshop AI tools (Harmonization and Generative Fill)
 adobe.io
 
+# advdownload.advantech.com
+advantech.com
+
 # app.ahrefs.com
 ahrefs.com
 
@@ -564,6 +567,8 @@ av-connection.com
 avast.com
 avast.ru
 avid.com
+arduino.cc
+axiomtek.com
 badoo.app
 badoo.com
 badoocdn.com
@@ -625,6 +630,7 @@ crowdstrike.com
 crunchbase.com
 crunchyroll.com
 csagroup.org
+cuny.edu
 cvedetails.com
 cybersecurity-help.cz
 daemon-tools.cc
@@ -972,6 +978,8 @@ lseg.com
 m3u.in
 macpaw.com
 macvendors.com
+makita.co.nz
+makitalatinamerica.com
 malwarebytes.org
 manus.im
 manybooks.net
@@ -1013,6 +1021,7 @@ netscaler.com
 neuesbad.de
 newark.com
 nic.ua
+ninjaone.com
 ngrok.com
 nordvpn.com
 nsa.gov
@@ -1159,6 +1168,7 @@ tria.ge
 trionworlds.com
 trueachievements.com
 truthsocial.com
+trybendy.app
 tsheets.com
 tsmc.com
 tvn24.pl
