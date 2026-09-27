@@ -568,6 +568,7 @@ bestbuy.ca
 bestbuy.com
 bitdefender.com
 bitnami.com
+bizjournals.com
 blackfriday.com
 blizzardwatch.com
 bluesky-soft.com
@@ -724,6 +725,7 @@ extremetech.com
 euro.com.pl
 fanatical.com
 fansub.com.br
+farnell.com
 fast.com
 fastflux.ai
 fedex.com
@@ -763,6 +765,7 @@ gmu.edu
 gmv.com
 gofundme.com
 grammarly.com
+griesslehner.at
 grok.com
 guidedhacking.com
 guilded.gg
@@ -937,6 +940,7 @@ intel.wf
 intel.yt
 intellipaat.com
 intuitibits.com
+ioactive.com
 iperf3serverlist.net
 jabra.com
 jetbrains.space
@@ -1198,6 +1202,7 @@ wise.com
 wk.cz
 wonderclub.com
 wunderground.com
+xda-developers.com
 xdaforums.com
 xenserver.com
 xiaomi.eu
